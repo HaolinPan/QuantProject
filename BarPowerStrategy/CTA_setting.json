@@ -1,0 +1,24 @@
+[{
+    "timeframeMap" :
+    {"envPeriod": "30m", "signalPeriod": "10m"},
+
+    "symbolList": ["IF:CTP"],
+    "barPeriod" : 150,
+    "envFastPeriod": 20,
+    "envSlowPeriod": 60,
+    "fastPeriod": 20, 
+    "slowPeriod": 40,
+    "maPeriod": 10,
+    "atrFastPeriod":8,
+    "atrSlowPeriod":30,
+    "bpPeriod":8,
+    "rsiPeriod":12,
+    "cciPeriod":14,
+    "bollPeriod":10,
+    "stoplossPct":0.03,
+    "thresholdPrice":0.05,
+    "posTime":3,
+    "addPct": 0.01,
+    "lot" :10
+}
+]
